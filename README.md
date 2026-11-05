@@ -18,7 +18,7 @@ I'm interested in how connected devices work and how to keep them secure.
 
 ## Tools and skills
 
-C++ · Arduino · Git and GitHub
+Python · C · C++ · Arduino · Git and GitHub
 
 ## Experience
 
